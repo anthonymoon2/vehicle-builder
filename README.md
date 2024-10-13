@@ -7,4 +7,4 @@
 Command line vehicle interactor/builder
 
 ## Walkthrough
-[Watch the video](link)
+[Watch the video](https://drive.google.com/file/d/1RQukN6Z7pXtWrJ_l6MaFZ7m-YL0KQl8Y/view?usp=sharing)
